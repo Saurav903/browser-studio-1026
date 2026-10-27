@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Browser Studio 1026",
+  "version": "1.0.0",
+  "description": "Turn a handful of open tabs into a focused, shareable research trail.",
+  "action": {
+    "default_title": "Open Browser Studio 1026",
+    "default_popup": "index.html"
+  },
+  "permissions": ["tabs", "storage"]
+}
